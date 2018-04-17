@@ -8,3 +8,52 @@ main:
     url: /sitemap/
   #- title: "Report an Issue"
   #  url: https://github.com/ADOxx-org/DISRUPT-Knowledge-Base/issues
+
+
+#DISRUPT Taxonomy
+taxonomy:
+  - title: "C1 - Supplier Processes"
+    url: /categories/#c1
+    children:
+      - title : "C1.0 - Disaster"
+        url: /categories/#c1-0
+      - title : "C1.1 - Machine"
+        url: /categories/#c1-1
+      - title : "C1.2 - Man"
+        url: /categories/#c1-2
+      - title : "C1.3 - Quality of Materials"
+        url: /categories/#c1-3
+      - title : "C1.4 - Quality Inspection System - Quality Measure"
+        url: /categories/#c1-4
+      - title : "C1.5 - Others"
+        url: /categories/#c1-5
+  - title: "C2 - Transportation"
+    url: /categories/#c2
+    children:
+      - title : "C2.0 - Disaster - Interruption of Transport (Storage/Delay)"
+        url: /categories/#c2-0
+      - title : "C2.1 - Machine - Available Transporters/Failure in Trucks/Incidents"
+        url: /categories/#c2-1
+      - title : "C2.2 - Man - Available Drivers"
+        url: /categories/#c2-2
+      - title : "C2.3 - Material - Quantity (getting lost)"
+        url: /categories/#c2-3
+      - title : "C2.4 - Material - Quality Inspecition System/Quality Measure"
+        url: /categories/#c2-4
+      - title : "C2.5 - Others"
+        url: /categories/#c2-5
+  - title: "C3 - Internal Processes"
+    url: /categories/#c3
+    children:
+      - title : "C3.0 - Disaster"
+        url: /categories/#c3-0
+      - title : "C3.1 - Machine - Condition Monitoring"
+        url: /categories/#c3-1
+      - title : "C3.2 - Man - Operator"
+        url: /categories/#c3-2
+      - title : "C3.3 - Material"
+        url: /categories/#c3-3
+      - title : "C3.4 - Quality Inspecition System - Quality Measure"
+        url: /categories/#c3-4
+      - title : "C3.5 - Others"
+        url: /categories/#c3-5
